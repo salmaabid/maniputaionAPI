@@ -1,0 +1,37 @@
+{
+  "eleve": [{
+      "Prenom": "John",
+      "Nom": "Doe",
+      "Age": "25"
+    },
+    {
+      "Prenom": "Ali",
+      "Nom": "ow",
+      "Age": "27"
+    },
+    {
+      "Prenom": "Med",
+      "Nom": "Jocker",
+      "Age": "30"
+    }
+  ],
+ 
+  "employées":
+
+    [{
+        "Prenom": "salma",
+        "Nom": "abid",
+        "Age": "29"
+      },
+      {
+        "Prenom": "emna",
+        "Nom": "khalil",
+        "Age": "26"
+      },
+      {
+        "Prenom": "Mariem",
+        "Nom": "sellami",
+        "Age": "30"
+      }
+]
+}
